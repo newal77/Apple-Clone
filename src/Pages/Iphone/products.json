@@ -1,6 +1,7 @@
-  {
+[
+    {
     "Id": "iphonese",
-    "img": "",
+    "img": "https://www.apple.com/v/iphone-16/c/images/overview/product-viewer/iphone/all_colors__flhn5cmb1t26_xlarge.jpg",
     "Url": "https://www.apple.com/shop/buy-iphone/iphone-11",
     "Title": "iPhone SE",
     "Brief": "Lots to love. Less to spend.",
@@ -11,9 +12,9 @@
   
   {
     "Id": "iphone11",
-    "img": "https://www.apple.com/v/iphone/home/aj/images/overview/hero/hero_iphone_se__barrz3dlvxea_small_2x.jpg",
+    "img": "https://www.apple.com/v/iphone-16/c/images/overview/welcome/hero__f4yedfen856q_xlarge.png",
     "Url": "https://www.apple.com/shop/buy-iphone/iphone-11",
-    "Title": "iPhone 11",
+    "Title": "iPhone 16",
     "Brief": "Lots to love. Less to spend.",
     "StartPrice": "$449",
     "PriceRange": "From $18.70/mo. or $449 with trade-in.*",
@@ -21,7 +22,7 @@
   },
   {
     "Id": "iphone11pro",
-    "img": "https://www.apple.com/v/iphone/home/aj/images/overview/hero/hero_iphone_11_pro__d2lf9zrtcv8m_small_2x.jpg",
+    "img": "https://www.evangadi.com/courses/MERN-Stack/misc/iphones/i1.JPG",
     "Url": "https://www.apple.com/shop/buy-iphone/iphone-11-pro",
     "Title": "iPhone 11 Pro",
     "Brief": "Pro cameras. Pro display. Pro performance.",
@@ -29,3 +30,4 @@
     "PriceRange": "From $28.29/mo. or $679 with trade-in.*",
     "Description": "A transformative triple‑camera system that adds tons of capability without complexity. An unprecedented leap in battery life. And a mind‑blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
   }
+]
